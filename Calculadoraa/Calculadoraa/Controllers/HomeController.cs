@@ -85,6 +85,7 @@ namespace Calculadoraa.Controllers
                 case "-":
                 case "x":
                 case ":":
+                case "=":
 
                     limpaVisor = "Sim";
                     if (primeiroOperador != "Sim")
